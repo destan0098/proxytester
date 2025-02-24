@@ -1,4 +1,4 @@
-﻿# Simple Proxy List Checker
+﻿﻿# Simple Proxy List Checker
 
 ![Static Badge](https://img.shields.io/badge/Python-100%25-brightgreen)
 ## Description
@@ -25,6 +25,7 @@ git clone https://github.com/destan0098/proxytester.git
 
 
 ```
+pip install -r ./requirements.txt
 python main.py
 ```
 import proxy list proxylist.csv file
